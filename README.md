@@ -1,16 +1,20 @@
-# pomme_poire_ananas
+# PommesPoiresAnanas 
 
-A new Flutter project.
+A Flutter project whose goal is to dynamically populate a ListView widget when clicking a FloatingActionButton. 
 
-## Getting Started
+It is supposed to display a different fruit depending on whether the counter is a prime/even/odd number.
 
-This project is a starting point for a Flutter application.
+## Infos
 
-A few resources to get you started if this is your first Flutter project:
+Author : Jordan Cheniclet
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project was done during Mr [Alexandre Leroux](https://www.linkedin.com/in/alexandre-leroux-sherpa/)'s MNS Flutter classes in May 2023.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Resources 
+
+[FlutterDoc](https://docs.flutter.dev/)
+
+## Credits
+
+Fruits : [FlatIcon](https://www.flaticon.com/)
+
